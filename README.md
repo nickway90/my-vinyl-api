@@ -24,7 +24,7 @@ Since all application dependencies are virtualized through [Docker](https://www.
 
 ## Installation
 ```
-$ git clone https://github.com/jwdepetro/my-vinyl-api.git
+$ git clone https://github.com/nickway90/my-vinyl-api.git
 $ cd my-vinyl-api
 $ cp .env-example .env
 $ docker-compose up
